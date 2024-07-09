@@ -58,7 +58,7 @@ Este projeto ira abortar tecnicas de **HTML**, **CSS** e **JS**.
 
 ![Imagem de Exemplo ](./IMG/Exemplo%20de%20eixos.png)
 
->!important
+>Importante!
 >
 >Diminuir o tamanho da imagem
 
@@ -92,8 +92,12 @@ Este projeto ira abortar tecnicas de **HTML**, **CSS** e **JS**.
   - baseline
   - stretch
 
->!Importante
+>Importante!
 >
 > Site com documentação: mdn web docs (https://developer.mozilla.org/en-US/)
 
 #Projeto para colocar em pratica o display box
+
+>Dica de site para praticar
+>
+> Flexbox Froggy - https://flexboxfroggy.com/
